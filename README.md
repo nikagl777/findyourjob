@@ -1,2 +1,2 @@
 # findyourjob
-Учебный проект Glo Aacademy
+Учебный проект Glo Academy
